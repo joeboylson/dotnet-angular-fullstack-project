@@ -3,15 +3,6 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
-# -------------------
-# NEW
-# -------------------
-
-# TODO: use a .env file
-appsettings.json 
-
-
-
 # dotenv files
 .env
 
