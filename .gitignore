@@ -1,2 +1,5 @@
 .DS_Store
 appsettings.json 
+
+# I don't use Visual Studio
+*.sln
